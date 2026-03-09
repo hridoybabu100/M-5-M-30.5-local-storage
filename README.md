@@ -5,3 +5,5 @@
 
 
 ### all task practice
+
+## objected ke local storage ke dekhate hole json.stringfy korte hbe.
